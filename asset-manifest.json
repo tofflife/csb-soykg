@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-soykg/static/css/main.a11625c5.chunk.css",
+    "main.js": "https://.github.io/csb-soykg/static/js/main.279496b7.chunk.js",
+    "main.js.map": "https://.github.io/csb-soykg/static/js/main.279496b7.chunk.js.map",
+    "runtime~main.js": "https://.github.io/csb-soykg/static/js/runtime~main.4b5aeec4.js",
+    "runtime~main.js.map": "https://.github.io/csb-soykg/static/js/runtime~main.4b5aeec4.js.map",
+    "static/css/2.dfd58508.chunk.css": "https://.github.io/csb-soykg/static/css/2.dfd58508.chunk.css",
+    "static/js/2.ffbd831f.chunk.js": "https://.github.io/csb-soykg/static/js/2.ffbd831f.chunk.js",
+    "static/js/2.ffbd831f.chunk.js.map": "https://.github.io/csb-soykg/static/js/2.ffbd831f.chunk.js.map",
+    "index.html": "https://.github.io/csb-soykg/index.html",
+    "precache-manifest.35afb15317f10adb64f57073f5387760.js": "https://.github.io/csb-soykg/precache-manifest.35afb15317f10adb64f57073f5387760.js",
+    "service-worker.js": "https://.github.io/csb-soykg/service-worker.js",
+    "static/css/2.dfd58508.chunk.css.map": "https://.github.io/csb-soykg/static/css/2.dfd58508.chunk.css.map",
+    "static/css/main.a11625c5.chunk.css.map": "https://.github.io/csb-soykg/static/css/main.a11625c5.chunk.css.map",
+    "static/media/burger.png": "https://.github.io/csb-soykg/static/media/burger.3f2a4dae.png",
+    "static/media/ground.png": "https://.github.io/csb-soykg/static/media/ground.65fd5b77.png",
+    "static/media/houses.png": "https://.github.io/csb-soykg/static/media/houses.ec3df722.png",
+    "static/media/kitchen.png": "https://.github.io/csb-soykg/static/media/kitchen.746323a4.png",
+    "static/media/plate.png": "https://.github.io/csb-soykg/static/media/plate.5a4af241.png",
+    "static/media/room.png": "https://.github.io/csb-soykg/static/media/room.e53fae92.png",
+    "static/media/signboard.png": "https://.github.io/csb-soykg/static/media/signboard.436bbe5a.png",
+    "static/media/table.png": "https://.github.io/csb-soykg/static/media/table.b17e6031.png",
+    "static/media/winner.png": "https://.github.io/csb-soykg/static/media/winner.aa4e1286.png",
+    "static/media/wooden-floor.png": "https://.github.io/csb-soykg/static/media/wooden-floor.6a9cdb6b.png"
+  }
+}
